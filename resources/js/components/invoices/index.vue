@@ -1,5 +1,7 @@
 <template>
-    <router-view/>
+  <div class="container">
+      index page component
+  </div>
 </template>
 
 <script>
